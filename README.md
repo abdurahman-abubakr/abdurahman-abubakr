@@ -31,3 +31,24 @@ My background includes leading IT operations in contracting environments, suppor
 
 [LinkedIn](https://www.linkedin.com/in/abdurahman-abubakr) | [GitHub](https://github.com/abdurahman-abubakr)
   
+
+## 🛠️ Technologies & Expertise
+
+### Microsoft Ecosystem
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-2563A6?style=for-the-badge&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-007C83?style=for-the-badge&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
+### Infrastructure & Security
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-253858?style=for-the-badge&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0B7285?style=for-the-badge&logoColor=white)
+![IT Infrastructure](https://img.shields.io/badge/IT_Infrastructure-34495E?style=for-the-badge&logoColor=white)
+![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-2E7D32?style=for-the-badge&logoColor=white)
+
+### Business Systems & Tools
+![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logoColor=white)
